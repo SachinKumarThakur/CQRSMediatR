@@ -1,3 +1,5 @@
+using EmployeeManagementLibrary.Data;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -25,7 +27,8 @@ namespace EmployeeManagement
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddScoped<IDataAccess, DataAccess>();
+            services.AddMediatR(typeof(DataAccess).Assembly);
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

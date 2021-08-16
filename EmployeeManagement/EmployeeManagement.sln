@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{10420C3A-253
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "src\API\EmployeeManagement\EmployeeManagement.csproj", "{D6BE43F0-EE19-405A-8509-2E601AFBBA49}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9C2216F2-62ED-47FC-8834-D3946498AA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementLibrary", "src\Core\EmployeeManagementLibrary\EmployeeManagementLibrary.csproj", "{E9FAC53C-05CF-47BA-B46C-63D782BE3CC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{D6BE43F0-EE19-405A-8509-2E601AFBBA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6BE43F0-EE19-405A-8509-2E601AFBBA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6BE43F0-EE19-405A-8509-2E601AFBBA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9FAC53C-05CF-47BA-B46C-63D782BE3CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FAC53C-05CF-47BA-B46C-63D782BE3CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FAC53C-05CF-47BA-B46C-63D782BE3CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FAC53C-05CF-47BA-B46C-63D782BE3CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{10420C3A-253A-4FF5-A9B8-797822B08A56} = {2DDAC3BC-506C-4A2E-9FF8-1E9D943FFF2D}
 		{D6BE43F0-EE19-405A-8509-2E601AFBBA49} = {10420C3A-253A-4FF5-A9B8-797822B08A56}
+		{9C2216F2-62ED-47FC-8834-D3946498AA36} = {2DDAC3BC-506C-4A2E-9FF8-1E9D943FFF2D}
+		{E9FAC53C-05CF-47BA-B46C-63D782BE3CC4} = {9C2216F2-62ED-47FC-8834-D3946498AA36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D51E28DD-1167-4592-BDCF-44AD73CF430E}

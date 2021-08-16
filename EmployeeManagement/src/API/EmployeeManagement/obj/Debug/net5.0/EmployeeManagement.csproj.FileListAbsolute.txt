@@ -26,3 +26,8 @@ C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeM
 C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\obj\Debug\net5.0\ref\EmployeeManagement.dll
 C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.pdb
 C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\bin\Debug\net5.0\MediatR.dll
+C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\bin\Debug\net5.0\EmployeeManagementLibrary.dll
+C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\bin\Debug\net5.0\EmployeeManagementLibrary.pdb
+C:\Users\sackumar6\source\repos\CQRSMediatR\EmployeeManagement\src\API\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.AssemblyReference.cache
